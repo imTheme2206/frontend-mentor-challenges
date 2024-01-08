@@ -1,7 +1,7 @@
-import Challenge1 from "./pages/challenge-1";
+import BlogPreviewCard from "./pages/blog-preview-card";
 
 function App() {
-  return <Challenge1 />;
+  return <BlogPreviewCard />;
 }
 
 export default App;
