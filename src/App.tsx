@@ -1,5 +1,7 @@
+import Challenge1 from "./pages/challenge-1";
+
 function App() {
-  return <div className="bg-slate-900 w-full h-[100vh]"></div>;
+  return <Challenge1 />;
 }
 
 export default App;

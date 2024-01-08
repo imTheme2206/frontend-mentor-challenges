@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --primary-yellow: 47, 88%, 63%;
+  --neutral-white: 0 0% 100%;
+  --neutral-grey: 0 0% 50%;
+  --neutral-black: 0 0% 7%;
+}
