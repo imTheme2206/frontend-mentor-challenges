@@ -1,5 +1,5 @@
-import { blogData } from "../assets/challenge-1/data.ts";
-import BlogCard from "../components/blog-card.tsx";
+import { blogData } from "../../assets/challenge-1/data.ts";
+import BlogCard from "../../components/blog-card.tsx";
 
 export default function BlogPreviewCard() {
   return (
